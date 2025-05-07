@@ -1,0 +1,4 @@
+dotnet publish ..\Web\API.csproj 
+
+## 假定你发布的web程序默认的dll的名字为 API.dll,如果不是，请修改 /tools/setup/install_web.bat 里对应文件就可。
+
